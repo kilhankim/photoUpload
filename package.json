@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "description": "",
   "dependencies": {
-    "express": "4.4.x",
+    "express": "4.17.x",
     "multer": "0.1.x",
     "aws-sdk": "2.0.x",
     "mime": "1.2.x",
