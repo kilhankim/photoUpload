@@ -1,0 +1,19 @@
+{
+  "name": "phtoto",
+  "version": "1.0.0",
+  "description": "",
+  "dependencies": {
+    "express": "4.4.x",
+    "multer": "0.1.x",
+    "aws-sdk": "2.0.x",
+    "mime": "1.2.x",
+    "sequelize": "1.7.x",
+    "mysql": "2.3.2"
+  },
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
